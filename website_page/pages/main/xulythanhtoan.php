@@ -1,0 +1,1 @@
+<h3>Cảm ơn bạn đã thanh toán ! Hẹn gặp lại</h3>

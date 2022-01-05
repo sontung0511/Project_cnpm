@@ -1,0 +1,35 @@
+ul.list_menucp{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  
+    margin: 0 auto;
+    
+
+}
+ul.list_menucp li:hover{
+    background: burlywood;
+}
+ul.list_menucp li{
+    float: left;
+    margin: 5px;
+    
+}
+ul.list_menucp  li a{
+    text-decoration: none;
+    text-align: center;
+    color: red;
+}
+.clear{
+    clear: both;
+}
+.title_admin{
+    text-align: center;
+    color: blue;
+}
+.wrapper{
+    border: 1px solid #000;
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+}
